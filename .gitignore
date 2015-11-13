@@ -1,0 +1,13 @@
+/rtl/*.bak
+/sim/work
+/sim/*.mpf
+/sim/*.mti
+/par/db
+/par/incremental_db
+/par/*.summary
+/par/*.qpf
+/par/*.qsf
+/par/*.qws
+/par/*.done
+/par/*.rpt
+/sim/*.bak
